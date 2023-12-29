@@ -9,7 +9,7 @@ This repository contains a machine learning project focusing on predicting movie
 - Cleaned and preprocessed a Netflix movie dataset, removing null values and redundant columns.
 - Explored the relationships and patterns within the data using visualizations like heatmaps and bar plots.
 - Developed predictive models using Random Forest and Gradient Boosting classifiers to predict movie genres.
-- Evaluated and compared model performance, achieving an accuracy of [mention accuracy score here].
+- Evaluated and compared model performance, achieving an accuracy.
 
 ## Heatmap depicts the correlation between movie_Id and votes
 ![Sample Heatmap](https://github.com/roshan1960701/Genre_Prediction/blob/main/Screenshot%202023-12-29%20at%2019.43.37.png)
